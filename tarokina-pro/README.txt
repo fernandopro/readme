@@ -5,7 +5,7 @@ Tags: tarot, cartas del tarot, arcanos mayores
 Requires at least: 4.8
 Tested up to: 5.6.2
 Requires PHP: 7.0
-Stable tag: 1.5.16
+Stable tag: 1.5.17
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -17,12 +17,15 @@ Tirada de cartas online, descripción larga
 == Screenshots ==
 
 == Installation ==
-installation texteando el 16
+Texto sobre la instalación 
 
 == Frequently Asked Questions ==
 Estas son las preguntas frecuentes
 
 == Changelog ==
+
+= 1.5.17 =
+* Texteando el 17
 
 = 1.5.16 =
 * Texteando el 16
@@ -37,7 +40,7 @@ Estas son las preguntas frecuentes
 * Texteando el 13
 
 = 1.5.12 =
-* Tiempo en Unix
+* Tiempo en Unix...
 
 = 1.5.11 =
 * instalando y probando el readme...
@@ -58,4 +61,3 @@ Estas son las preguntas frecuentes
 * Corregido error de sistema
 
 == Upgrade Notice ==
-upgrade jajajaja  16
