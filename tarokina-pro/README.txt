@@ -37,7 +37,7 @@ Estas son las preguntas frecuentes
 * Texteando el 13
 
 = 1.5.12 =
-* Tiempo en Unix...
+* Tiempo en Unix
 
 = 1.5.11 =
 * instalando y probando el readme...
