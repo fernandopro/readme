@@ -21,8 +21,8 @@ Estas son las preguntas frecuentes
 
 == Changelog ==
 
-= 1.5.1 =
-* Parche de seguridad
+= 1.5.2 =
+* Parche de seguridad DOMINGOOOOO
 
 == Upgrade Notice ==
 
