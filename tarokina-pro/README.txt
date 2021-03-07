@@ -1,5 +1,6 @@
 === Tarokina Pro ===
 Contributors: fernandopro
+Donate link: https://arnelio.com/donate/
 Tags: tarot, cartas del tarot, arcanos mayores
 Requires at least: 4.8
 Tested up to: 5.6.1
@@ -23,8 +24,8 @@ Estas son las preguntas frecuentes
 
 == Changelog ==
 
-= 1.5.2 =
-* Parche de seguridad DOMINGOOOOO
+= 1.5.3 =
+* Parche de seguridad RAWWWWWWWWWW
 
 == Upgrade Notice ==
 Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
