@@ -5,7 +5,7 @@ Tags: tarot, cartas del tarot, arcanos mayores
 Requires at least: 4.8
 Tested up to: 5.6.2
 Requires PHP: 7.0
-Stable tag: 1.5.10
+Stable tag: 1.5.11
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -23,6 +23,9 @@ El iphone 4 jajaja Installation
 Estas son las preguntas frecuentes
 
 == Changelog ==
+
+= 1.5.11 =
+* instalando y probando el readme...
 
 = 1.5.10 =
 * pache de seguridad nooooo
