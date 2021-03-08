@@ -5,7 +5,7 @@ Tags: tarot, cartas del tarot, arcanos mayores
 Requires at least: 4.8
 Tested up to: 5.6.2
 Requires PHP: 7.0
-Stable tag:  1.5.18
+Stable tag:  1.5.20
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -23,6 +23,13 @@ Texto sobre la instalación
 Estas son las preguntas frecuentes
 
 == Changelog ==
+
+= 1.5.20 =
+* Texteando el florida la versión 1.5.20
+* Es importante. Parche de seguridad
+
+= 1.5.19 =
+* Texteando el florida la versión 1.5.19
 
 = 1.5.18 =
 * Texteando el 18
