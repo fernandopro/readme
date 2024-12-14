@@ -2,8 +2,8 @@
 Contributors: Arnelio
 Donate link: https://arnelio.com/
 Tags: tarot, Tarot cards, Tarot readings, yes or no tarot, daily tarot, Cartouche cards, Major Arcana, タロット, 塔罗牌
-Requires at least: 4.9
-Tested up to: 6.4
+Requires at least: 5
+Tested up to: 6.7
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -20,6 +20,9 @@ Provides the most popular spreads within Tarokina Pro. Celtic cross, horseshoe s
 
 
 == Changelog ==
+
+= 2.8.2 =
+* Improvement: Tested up-to WordPress 6.7.
 
 = 2.8 =
 * Changed: The function that shows the result has been refactored.
