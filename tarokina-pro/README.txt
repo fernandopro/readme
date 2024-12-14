@@ -21,7 +21,7 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
-= 2.9.6 =
+= 2.9.7 =
 * Improvement: Tested up-to WordPress 6.7.
 
 = 2.9.5 =
