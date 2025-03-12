@@ -22,7 +22,7 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 == Changelog ==
 
 = 2.9.8 =
-* Fixed: This is a maintenance release that includes several bug fixes.
+* Added: A new option has been added to display images without compression, only in the tarot result.
 
 = 2.9.7 =
 * Improvement: Tested up-to WordPress 6.7.
