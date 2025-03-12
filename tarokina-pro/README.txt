@@ -21,6 +21,9 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
+= 2.9.8 =
+* Fixed: This is a maintenance release that includes several bug fixes.
+
 = 2.9.7 =
 * Improvement: Tested up-to WordPress 6.7.
 
