@@ -21,6 +21,9 @@ Integration with Woocommerce and Easy Digital Downloads. If you are a profession
 
 == Changelog ==
 
+= 2.11 =
+* Fixed CSS on the license page.
+
 = 2.10 =
 * Added an alternative method for license activation.
 

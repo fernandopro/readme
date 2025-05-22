@@ -21,6 +21,9 @@ Provides the most popular spreads within Tarokina Pro. Celtic cross, horseshoe s
 
 == Changelog ==
 
+= 2.11 =
+* Fixed CSS on the license page.
+
 = 2.10 =
 * Added an alternative method for license activation.
 

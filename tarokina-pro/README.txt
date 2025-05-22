@@ -21,6 +21,9 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
+= 2.11 =
+* Fixed CSS on the license page.
+
 = 2.10 =
 * Added an alternative method for license activation.
 

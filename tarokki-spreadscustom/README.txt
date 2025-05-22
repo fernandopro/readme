@@ -22,6 +22,9 @@ Offer new spreads designed by Tarokina users. Set yourself apart from your compe
 
 == Changelog ==
 
+= 2.11 =
+* Fixed CSS on the license page.
+
 = 2.10 =
 * Added an alternative method for license activation.
 
