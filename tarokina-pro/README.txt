@@ -3,7 +3,7 @@ Contributors: Arnelio
 Donate link: https://arnelio.com/
 Tags: tarot, Tarot cards, Tarot readings, yes or no tarot, daily tarot, Cartouche cards, Major Arcana, タロット, 塔罗牌
 Requires at least: 5
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -20,6 +20,9 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 == Frequently Asked Questions ==
 
 == Changelog ==
+
+= 2.10 =
+* Added an alternative method for license activation.
 
 = 2.9.8 =
 * Added: A new option has been added to display images without compression, only in the tarot result.
