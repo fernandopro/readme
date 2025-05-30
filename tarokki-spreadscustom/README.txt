@@ -22,6 +22,9 @@ Offer new spreads designed by Tarokina users. Set yourself apart from your compe
 
 == Changelog ==
 
+= 2.14 =
+* Fixed: Translation domain now loads correctly on init to prevent early loading notice in WordPress 6.7+
+
 = 2.11 =
 * Fixed CSS on the license page.
 

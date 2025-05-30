@@ -21,7 +21,7 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
-= 2.13 =
+= 2.14 =
 * Fixed: Translation domain now loads correctly on init to prevent early loading notice in WordPress 6.7+
 
 = 2.11 =
