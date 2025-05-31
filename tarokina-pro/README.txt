@@ -21,6 +21,9 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
+= 2.15 =
+* Improvement: The Carbon Fields library has been updated to version 3.6.5.
+
 = 2.14.3 =
 * Fixed: This is a maintenance release that includes several bug fixes.
 

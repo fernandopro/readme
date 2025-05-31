@@ -21,6 +21,9 @@ Integration with Woocommerce and Easy Digital Downloads. If you are a profession
 
 == Changelog ==
 
+= 2.15 =
+* Improvement: The Carbon Fields library has been updated to version 3.6.5.
+
 = 2.14 =
 * Fixed: Translation domain now loads correctly on init to prevent early loading notice in WordPress 6.7+
 
