@@ -275,6 +275,7 @@ Refactored tarot creation function.
 = 1.1.1 =
 * Fixed: Enable/disable addons in plugins.php.
 
+
 = 1.1 =
 * 🎉  first release! 
 
