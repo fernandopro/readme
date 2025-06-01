@@ -23,8 +23,8 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 = 2.15 =
 * Update: The Carbon Fields library has been updated to version 3.6.5.
-* Fixed: Se mostraba un box de una carta incluso si no habías elegido un tarot.
-* Improvement: Ahora puedes presionar en la imagen de una carta para editar los textos.
+* Fixed: A card box was shown even if you hadn't selected a tarot.
+* Improvement: You can now click on a card image to edit the texts.
 
 = 2.14.3 =
 * Fixed: This is a maintenance release that includes several bug fixes.
