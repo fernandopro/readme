@@ -21,6 +21,9 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
+= 2.15.2 =
+* Fixed an issue with special characters when typing the tarot card name.
+
 = 2.15 =
 * Update: The Carbon Fields library has been updated to version 3.6.5.
 * Fixed: A card box was shown even if you hadn't selected a tarot.
