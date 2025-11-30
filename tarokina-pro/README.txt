@@ -21,6 +21,14 @@ Basic, Reversed, and Expert mode. If the cards have different meanings in differ
 
 == Changelog ==
 
+= 2.15.3 =
+* Fixed: Resolved plugin activation error that generated unexpected output (442 characters warning).
+* Fixed: Improved translation system - textdomain now loads immediately instead of through delayed loader hooks.
+* Fixed: Corrected file operations in activator class to prevent warnings during plugin activation.
+* Fixed: Carbon Fields loader now properly skips execution during plugin activation to prevent conflicts.
+* Improvement: Enhanced i18n system using load_textdomain() with absolute paths for more reliable translation loading.
+* Added: Hindi (hi_IN) language support.
+
 = 2.15.2 =
 * Fixed an issue with special characters when typing the tarot card name.
 
